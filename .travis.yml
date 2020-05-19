@@ -13,7 +13,7 @@ install:
 script:
   - |
     echo ">>> Compile vscode-test"
-    npm install && npm run compile && npm run test-compile
+    npm install && npm run compile
     echo ">>> Compiled vscode-test"
     echo ">>> Run tests"
     npm test
