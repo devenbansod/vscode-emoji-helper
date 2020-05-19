@@ -4,6 +4,10 @@ A Visual Studio Code extension that helps autocomplete emojis and turns text emo
 
 **Right now, enabled to work with Markdown files only**
 
+## How to install
+
+Easiest route would be through the ways suggested on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=devenbansodbits.emoji-helper).
+
 ## How to use
 
 ### Autocomplete Emojis
