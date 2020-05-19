@@ -2,7 +2,7 @@
 	"name": "emoji-helper-client",
 	"displayName": "emoji-helper-client",
 	"description": "LSP client for emoji-helper extension",
-	"version": "0.1.0",
+	"version": "0.0.1",
 	"publisher": "devenbansodbits",
 	"repository": {
 		"type": "git",

@@ -1,7 +1,7 @@
 {
   "name": "emoji-helper-server",
   "description": "LSP server for emoji-helper extension.",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "publisher": "devenbansodbits",
   "engines": {
     "node": "*"
