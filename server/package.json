@@ -1,0 +1,18 @@
+{
+  "name": "emoji-helper-server",
+  "description": "LSP server for emoji-helper extension.",
+  "version": "0.1.0",
+  "publisher": "devenbansodbits",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devenbansod/vscode-emoji-helper.git"
+  },
+  "dependencies": {
+    "vscode-languageserver": "^6.1.1",
+    "vscode-languageserver-textdocument": "^1.0.1"
+  },
+  "scripts": {}
+}
